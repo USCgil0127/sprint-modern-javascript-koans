@@ -1,0 +1,359 @@
+{
+  "stats": {
+    "suites": 9,
+    "tests": 25,
+    "passes": 20,
+    "pending": 5,
+    "failures": 0,
+    "start": "2021-02-25T05:47:09.689Z",
+    "end": "2021-02-25T05:47:09.699Z",
+    "duration": 10
+  },
+  "tests": [
+    {
+      "title": "함수 표현식 사용법을 복습합니다",
+      "fullTitle": "화살표 함수에 관해서 함수 표현식 사용법을 복습합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "화살표 함수 사용법을 익힙니다",
+      "fullTitle": "화살표 함수에 관해서 화살표 함수 사용법을 익힙니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "화살표 함수를 이용해 클로저를 표현합니다",
+      "fullTitle": "화살표 함수에 관해서 화살표 함수를 이용해 클로저를 표현합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열을 분해합니다",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 배열을 분해합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "rest/spread 문법을 배열 분해에 적용할 수 있습니다",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 rest/spread 문법을 배열 분해에 적용할 수 있습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "객체의 단축(shorthand) 문법을 익힙니다",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 객체의 단축(shorthand) 문법을 익힙니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "객체를 분해합니다",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 객체를 분해합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "rest/spread 문법을 객체 분해에 적용할 수 있습니다 #1",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 rest/spread 문법을 객체 분해에 적용할 수 있습니다 #1",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "rest/spread 문법을 객체 분해에 적용할 수 있습니다 #2",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 rest/spread 문법을 객체 분해에 적용할 수 있습니다 #2",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "rest/spread 문법을 객체 분해에 적용할 수 있습니다 #3",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 rest/spread 문법을 객체 분해에 적용할 수 있습니다 #3",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "메소드 호출시 this를 확인합니다",
+      "fullTitle": "this 키워드에 관해서 메소드 호출시 this를 확인합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "화살표 함수로 작성된 메소드 호출시 this를 확인합니다",
+      "fullTitle": "this 키워드에 관해서 화살표 함수로 작성된 메소드 호출시 this를 확인합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "new 키워드를 이용해 함수를 호출할 수 있습니다",
+      "fullTitle": "this 키워드에 관해서 new 키워드를 이용해 함수를 호출할 수 있습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "함수에도 메소드가 있습니다",
+      "fullTitle": "함수 메소드에 관해서 함수에도 메소드가 있습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "call의 첫번째 인자 값을 확인합니다",
+      "fullTitle": "call에 관해서 call의 첫번째 인자 값을 확인합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "call의 두번째 인자 이후로는 파라미터로 전달됩니다",
+      "fullTitle": "call에 관해서 call의 두번째 인자 이후로는 파라미터로 전달됩니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "apply의 첫번째 인자 값을 확인합니다",
+      "fullTitle": "apply에 관해서 apply의 첫번째 인자 값을 확인합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "apply의 두번째 인자는 배열입니다",
+      "fullTitle": "apply에 관해서 apply의 두번째 인자는 배열입니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "bind는 함수를 실행하지 않고, this 컨텍스트를 담은 함수를 리턴합니다",
+      "fullTitle": "bind에 관해서 bind는 함수를 실행하지 않고, this 컨텍스트를 담은 함수를 리턴합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "bind의 인자 순서는 call과 동일합니다",
+      "fullTitle": "bind에 관해서 bind의 인자 순서는 call과 동일합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "spread operator, rest parameter가 탄생하기 이전엔 apply가 많이 쓰였습니다",
+      "fullTitle": "call, apply의 유용한 예제를 확인합니다 spread operator, rest parameter가 탄생하기 이전엔 apply가 많이 쓰였습니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "prototype의 기능을 빌려 쓸 수 있습니다",
+      "fullTitle": "call, apply의 유용한 예제를 확인합니다 prototype의 기능을 빌려 쓸 수 있습니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "유사 배열을 다루기에 용이합니다",
+      "fullTitle": "call, apply의 유용한 예제를 확인합니다 유사 배열을 다루기에 용이합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback에 인자를 전달하기에 유용합니다",
+      "fullTitle": "bind의 유용한 예제를 확인합니다 callback에 인자를 전달하기에 유용합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "setTimeout에 this 컨텍스트를 전달하기에 유용합니다",
+      "fullTitle": "bind의 유용한 예제를 확인합니다 setTimeout에 this 컨텍스트를 전달하기에 유용합니다",
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [
+    {
+      "title": "spread operator, rest parameter가 탄생하기 이전엔 apply가 많이 쓰였습니다",
+      "fullTitle": "call, apply의 유용한 예제를 확인합니다 spread operator, rest parameter가 탄생하기 이전엔 apply가 많이 쓰였습니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "prototype의 기능을 빌려 쓸 수 있습니다",
+      "fullTitle": "call, apply의 유용한 예제를 확인합니다 prototype의 기능을 빌려 쓸 수 있습니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "유사 배열을 다루기에 용이합니다",
+      "fullTitle": "call, apply의 유용한 예제를 확인합니다 유사 배열을 다루기에 용이합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback에 인자를 전달하기에 유용합니다",
+      "fullTitle": "bind의 유용한 예제를 확인합니다 callback에 인자를 전달하기에 유용합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "setTimeout에 this 컨텍스트를 전달하기에 유용합니다",
+      "fullTitle": "bind의 유용한 예제를 확인합니다 setTimeout에 this 컨텍스트를 전달하기에 유용합니다",
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "failures": [],
+  "passes": [
+    {
+      "title": "함수 표현식 사용법을 복습합니다",
+      "fullTitle": "화살표 함수에 관해서 함수 표현식 사용법을 복습합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "화살표 함수 사용법을 익힙니다",
+      "fullTitle": "화살표 함수에 관해서 화살표 함수 사용법을 익힙니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "화살표 함수를 이용해 클로저를 표현합니다",
+      "fullTitle": "화살표 함수에 관해서 화살표 함수를 이용해 클로저를 표현합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열을 분해합니다",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 배열을 분해합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "rest/spread 문법을 배열 분해에 적용할 수 있습니다",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 rest/spread 문법을 배열 분해에 적용할 수 있습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "객체의 단축(shorthand) 문법을 익힙니다",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 객체의 단축(shorthand) 문법을 익힙니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "객체를 분해합니다",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 객체를 분해합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "rest/spread 문법을 객체 분해에 적용할 수 있습니다 #1",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 rest/spread 문법을 객체 분해에 적용할 수 있습니다 #1",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "rest/spread 문법을 객체 분해에 적용할 수 있습니다 #2",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 rest/spread 문법을 객체 분해에 적용할 수 있습니다 #2",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "rest/spread 문법을 객체 분해에 적용할 수 있습니다 #3",
+      "fullTitle": "구조 분해 할당(Destructing Assignment)에 관해서 rest/spread 문법을 객체 분해에 적용할 수 있습니다 #3",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "메소드 호출시 this를 확인합니다",
+      "fullTitle": "this 키워드에 관해서 메소드 호출시 this를 확인합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "화살표 함수로 작성된 메소드 호출시 this를 확인합니다",
+      "fullTitle": "this 키워드에 관해서 화살표 함수로 작성된 메소드 호출시 this를 확인합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "new 키워드를 이용해 함수를 호출할 수 있습니다",
+      "fullTitle": "this 키워드에 관해서 new 키워드를 이용해 함수를 호출할 수 있습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "함수에도 메소드가 있습니다",
+      "fullTitle": "함수 메소드에 관해서 함수에도 메소드가 있습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "call의 첫번째 인자 값을 확인합니다",
+      "fullTitle": "call에 관해서 call의 첫번째 인자 값을 확인합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "call의 두번째 인자 이후로는 파라미터로 전달됩니다",
+      "fullTitle": "call에 관해서 call의 두번째 인자 이후로는 파라미터로 전달됩니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "apply의 첫번째 인자 값을 확인합니다",
+      "fullTitle": "apply에 관해서 apply의 첫번째 인자 값을 확인합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "apply의 두번째 인자는 배열입니다",
+      "fullTitle": "apply에 관해서 apply의 두번째 인자는 배열입니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "bind는 함수를 실행하지 않고, this 컨텍스트를 담은 함수를 리턴합니다",
+      "fullTitle": "bind에 관해서 bind는 함수를 실행하지 않고, this 컨텍스트를 담은 함수를 리턴합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "bind의 인자 순서는 call과 동일합니다",
+      "fullTitle": "bind에 관해서 bind의 인자 순서는 call과 동일합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}

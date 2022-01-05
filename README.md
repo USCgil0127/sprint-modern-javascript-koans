@@ -1,1 +1,1 @@
-# sprint-modern-javascript-koans
+# Modern JavaScript Koans
